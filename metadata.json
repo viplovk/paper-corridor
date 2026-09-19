@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Sketch Gallery",
+  "description": "An infinite interactive 3D art gallery corridor reconstructed from hand-drawn pencil architectural sketches with realistic walking physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
